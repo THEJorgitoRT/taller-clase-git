@@ -9,3 +9,6 @@ Jorge Armando RIncones Torres
 
 Git
 Vscode
+
+#Estado del proyecto 
+Proyecto en estadi de desarrollo -v1.0
