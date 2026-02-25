@@ -4,3 +4,8 @@ Taller de versiones de git -Git
 
 # Integrantes
 Jorge Armando RIncones Torres
+
+# tecnologias
+
+Git
+Vscode
