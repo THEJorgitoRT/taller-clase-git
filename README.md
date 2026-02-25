@@ -9,3 +9,5 @@ Jorge Armando RIncones Torres
 
 Git
 Vscode
+# Estado de Proyecto
+Actividad Git realizada
